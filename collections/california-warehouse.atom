@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kodiaksports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kodiaksports.com/collections/california-warehouse.atom"/>
+  <title>Kodiak Sports, LLC</title>
+  <updated>2021-07-20T16:58:00-05:00</updated>
+  <author>
+    <name>Kodiak Sports, LLC</name>
+  </author>
+  <entry>
+    <id>https://www.kodiaksports.com/products/6608186540145</id>
+    <published>2021-07-20T16:58:00-05:00</published>
+    <updated>2021-07-20T16:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/local-pickup-southern-ca-38-9mm-kodiak-commercial-grade-rolled-rubber-flooring"/>
+    <title>Local Pickup Rancho Cucamonga, CA - 3/8&quot; (9mm) Kodiak Commercial Grade Rolled Rubber Flooring</title>
+    <s:type></s:type>
+    <s:vendor>Athletic Textiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/Photo093_zoom.jpg?v=1626818103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Athletic Textiles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            260.00 - 490.00
+            <a href="https://www.kodiaksports.com/products/local-pickup-southern-ca-38-9mm-kodiak-commercial-grade-rolled-rubber-flooring">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Pre-Cut 3/8" (9mm) Kodiak Commercial Grade Rubber Rolls<br><br>
+</h3>
+<h3>4' x 25' Rolls - Solid Black, 10% Gray<br>4' x 50' Rolls - Solid Black, 10% Gray</h3>
+<p><strong><span style="color: #ff0000;">ITEM IS FOR LOCAL PICKUP in Rancho Cucamonga, CA warehouse only. Call for special shipping/emergency shipments</span></strong></p>
+<h3>Product Overview</h3>
+<p>3/8" (9mm) Kodiak Rolled Rubber Flooring is a common thickness used in residential and some commercial gyms with basic activities and little vertical impact on the floor. Rolls are 4' in width and cut to the nearest foot in length.</p>
+<p>Applications include: High School Weight Rooms, Locker Rooms, Fitness Centers, Physical Therapy Clinics, Home Gyms, Baseball Dugouts, Laundry Rooms, Chiropractic Clinics, Pet Training Centers, Aisles, Walkways.</p>
+<h5>Specifications:</h5>
+<p><strong>Width:</strong> 4' Wide<br><b>Length: </b>4' x 25' or 4' x 50' only</p>
+<h5>Shipping Time</h5>
+<p><strong>Fast Ship Colors: </strong>Solid Black, 10% Gray</p>
+<h5>Installation Video</h5>
+<p><iframe height="315" width="560" src="https://www.youtube.com/embed/WMRe-2aUaBI" frameborder="0" allowfullscreen=""></iframe> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GRADE_Commercial</s:tag>
+    <s:tag>Location_California</s:tag>
+    <s:tag>PRODUCT_Rolled Rubber Flooring</s:tag>
+    <s:tag>THICKNESS_3/8 inch (9mm)</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/6608186540145</id>
+      <title>Solid Black / 4&apos;W x 25&apos;L</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/6608186540145</id>
+      <title>Solid Black / 4&apos;W x 50&apos;L</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>204117</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/6608186540145</id>
+      <title>10% Gray / 4&apos;W x 25&apos;L</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136078</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/6608186540145</id>
+      <title>10% Gray / 4&apos;W x 50&apos;L</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>204117</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/6608186540145</id>
+      <title>10% Blue / 4&apos;W x 25&apos;L</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136078</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/6608186540145</id>
+      <title>10% Blue / 4&apos;W x 50&apos;L</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272155</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/4639139135601</id>
+    <published>2021-07-20T16:50:23-05:00</published>
+    <updated>2021-07-20T16:50:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/local-pickup-5-16-8mm-kodiak-commercial-grade-rolled-rubber-flooring"/>
+    <title>Local Pickup Southern CA  - 5/16&quot; (8mm) Kodiak Commercial Grade Rolled Rubber Flooring</title>
+    <s:type></s:type>
+    <s:vendor>Athletic Textiles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/Photo075_zoom_3fab4060-4ef9-4fc9-8617-86d142a173ec.jpg?v=1626817807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Athletic Textiles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            240.00 - 460.00
+            <a href="https://www.kodiaksports.com/products/local-pickup-5-16-8mm-kodiak-commercial-grade-rolled-rubber-flooring">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Pre-Cut 5/16" (8mm) Kodiak Rubber Rolls<br><br>4' x 25' Rolls - Solid Black, 10% Gray, 10% Blue<br>4' x 50' Rolls - Solid Black, 10% Gray, 10% Blue</h3>
+<p><strong><span style="color: #ff0000;">Item is for LOCAL PICKUP in Southern CA warehouse only, call for ship rates/custom quote</span></strong></p>
+<h3>Product Overview</h3>
+<p>5/16" (8mm) Kodiak Rolled Rubber Flooring is a common thickness used in residential and some commercial gyms with basic activities and little vertical impact on the floor. Rolls are 4' in width and cut to the nearest foot in length.</p>
+<p>Applications include: High School Weight Rooms, Locker Rooms, Fitness Centers, Physical Therapy Clinics, Home Gyms, Baseball Dugouts, Laundry Rooms, Chiropractic Clinics, Pet Training Centers, Aisles, Walkways.</p>
+<h5>Specifications:</h5>
+<p><strong>Width:</strong> 4' Wide<br><b>Length: </b>4' x 25' or 4' x 50' only</p>
+<h5>Shipping Time</h5>
+<p><strong>Fast Ship Colors: </strong>Solid Black, 10% Blue, 10% Gray, 10% Blue/Gray Blend, 90% Mocha Blend</p>
+<h5>Installation Video</h5>
+<p><iframe src="https://www.youtube.com/embed/WMRe-2aUaBI" width="560" height="315" allowfullscreen="" frameborder="0"></iframe> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GRADE_Commercial</s:tag>
+    <s:tag>Location_California</s:tag>
+    <s:tag>PRODUCT_Rolled Rubber Flooring</s:tag>
+    <s:tag>THICKNESS_5/16 inch (8mm)</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/4639139135601</id>
+      <title>Solid Black / 4&apos;W x 25&apos;L</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>am_5/16_rolled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/4639139135601</id>
+      <title>Solid Black / 4&apos;W x 50&apos;L</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>am_5/16_rolled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/4639139135601</id>
+      <title>10% Gray / 4&apos;W x 25&apos;L</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>am_5/16_rolled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/4639139135601</id>
+      <title>10% Gray / 4&apos;W x 50&apos;L</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>am_5/16_rolled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/4639139135601</id>
+      <title>10% Blue / 4&apos;W x 25&apos;L</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>am_5/16_rolled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/4639139135601</id>
+      <title>10% Blue / 4&apos;W x 50&apos;L</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>am_5/16_rolled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8123402822</id>
+    <published>2016-08-18T10:08:00-05:00</published>
+    <updated>2016-08-18T10:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/rubber-flooring-adhesive"/>
+    <title>Rubber Flooring Glue &amp; Adhesive</title>
+    <s:type>Rubber Flooring Glue</s:type>
+    <s:vendor>Kodiak Sports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/glue35_rubber_bb313a38-9dc5-42b1-a10f-04b0690d9241.jpg?v=1474949600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports<br>
+        <strong>Type: </strong>Rubber Flooring Glue<br>
+        <strong>Price: </strong>
+            99.99 - 199.99
+            <a href="https://www.kodiaksports.com/products/rubber-flooring-adhesive">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Rubber Flooring Glue</h5>
+<p>The moisture-cured urethane adhesive for rolled rubber flooring and strip is suitable for commercial or residential applications.</p>
+<p>The 3.5 gallon bucket covers approx 375-400 sq. ft. at 3/32" trowel size over smooth concrete.  Other substrates may consume additional glue and lower your spread rate.  YOU are responsible for ordering the correct amount of adhesive so that you are not short.</p>
+<p>*** Glue is NOT returnable</p>
+<h5>
+<br>Highlights:</h5>
+<ul>
+<li>Versatile and easy to use</li>
+<li>Contains no water – will not cause warping or buckling</li>
+<li>Long working time</li>
+<li>Excellent bond strength</li>
+<li>Excellent initial tack holds securely during installation</li>
+<li>One-part product – no mixing</li>
+</ul>
+<h5>Substrates:</h5>
+<p><br>Moisture Cure Urethane Wood Adhesive is designed for installing rolled rubber flooring over concrete, cementitious underlayments, wood substrates, cementitious terrazzo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Location_California</s:tag>
+    <s:tag>Location_Celina</s:tag>
+    <s:tag>PRODUCT_Adhesive</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8123402822</id>
+      <title>2.5 Gallon (200 sq. ft.)</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>rg_glue2.5</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8123402822</id>
+      <title>3.5 Gallon (350 sq. ft.)</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>am_glue_h35</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8123402822</id>
+      <title>5 Gallon (400-450 sq. ft.)</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>rg_glue_5</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

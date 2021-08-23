@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kodiaksports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kodiaksports.com/collections/windscreen.atom"/>
+  <title>Kodiak Sports, LLC</title>
+  <updated>2016-10-17T18:57:00-05:00</updated>
+  <author>
+    <name>Kodiak Sports, LLC</name>
+  </author>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8764189772</id>
+    <published>2016-10-17T18:57:00-05:00</published>
+    <updated>2016-10-17T18:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tuffy-windsceen-privacy-fence-screen"/>
+    <title>Tuffy® Windsceen &amp; Privacy Fence Screen</title>
+    <s:type>Windscreen</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/tuffy_print.jpg?v=1478606922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Windscreen<br>
+        <strong>Price: </strong>
+            4.29 - 7.59
+            <a href="https://www.kodiaksports.com/products/tuffy-windsceen-privacy-fence-screen">(57 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Tuffy® Windscreen</h5>
+<p>Tuffy® Windscreen is constructed of exclusive Vipol™ Matrix Material, a super-durable mesh fabric of tightly woven micro-fibers.  The Tuffy® Windscreen is the toughest windscreen fabric on the market; it is virtually tear-proof.  <br><br>The Double-needle Lock Stitching is unique to the Tuffy® Windscreen, eliminating the thread unraveling problem of traditional windscreens that are fully chain-stitched. <br><br>The Tuffy® Windscreen is backed by a 5-year factory warranty and available in 20 colors, Tuffy Windscreen has a uniform, professional appearance that enhances our sharp multi-color imprinting.  Grommets installed every 12”. The blocking is 78% shading.</p>
+<p>Areas with high winds are recommended that you add an additional middle hem and grommet support strip.  This can be added by calling or requesting a quote.</p>
+<p>The material is available in raw material heights of 6'H and 9'H and can be cut to any length segments. </p>
+<p>Price is by Linear Foot.</p>
+<h3>Features</h3>
+<ul>
+<li>Double-needle Lock Stitching</li>
+<li>Vipol™Mesh (most durable mesh on market)</li>
+<li>5 year warranty</li>
+<li>Brass rust proof grommets – spaced 12" apart on all sides</li>
+<li>Center lacing lip – standard for screens over 6' <br> (extra row of grommets prevents wind damage)</li>
+</ul>
+<h5>How to order</h5>
+<p>You may request a quote via the web form:</p>
+<ul>
+<li>Measure your fence height and length(s)</li>
+<li>Measure any gates to cover</li>
+<li>Provide list of heights and lengths to via quote form or email</li>
+</ul>
+<p>You can buy online</p>
+<ul>
+<li>Enter your size into the calculator</li>
+<li>Add the panels/length you need individually</li>
+</ul>
+<p> </p>
+<h2 class="armormesh"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT_Windscreen</s:tag>
+    <s:tag>SPORT_Baseball</s:tag>
+    <s:tag>SPORT_Softball</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Green / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Green / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Green / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Black / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Black / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Black / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Midnight Green / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Midnight Green / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Midnight Green / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Kelly Green / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Kelly Green / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Kelly Green / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Navy Blue / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Navy Blue / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Navy Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Royal Blue / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Royal Blue / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Royal Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Yellow / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Yellow / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Yellow / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Tropic Orange / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Tropic Orange / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Tropic Orange / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Vegas Gold / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Vegas Gold / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Vegas Gold / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Burnt Orange / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Burnt Orange / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Burnt Orange / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Purple / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Purple / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Purple / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Scarlett / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Scarlett / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Scarlett / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Beige / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Beige / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Beige / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Maroon / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Maroon / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Maroon / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Gray / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Gray / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Gray / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Sky Blue / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Sky Blue / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Sky Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Brown / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Brown / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Brown / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>White / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>White / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>White / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Pro Blue / 5&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Pro Blue / 6&apos;H Material</title>
+      <s:price currency="USD">5.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764189772</id>
+      <title>Pro Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8764158604</id>
+    <published>2016-10-17T18:57:00-05:00</published>
+    <updated>2016-10-17T18:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/windsceen-privacy-fence-basic"/>
+    <title>Basic Vinyl Coated Windsceen &amp; Privacy Fence Screen</title>
+    <s:type>Windscreen</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/windscreen_f818554a-b334-40f9-97bb-71c61532f129.jpg?v=1476792486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Windscreen<br>
+        <strong>Price: </strong>
+            4.29 - 6.39
+            <a href="https://www.kodiaksports.com/products/windsceen-privacy-fence-basic">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Armor Mesh Details</h5>
+<p>The VCM (Vinyl Coated Mesh) windscreen is an excellent choice for baseball outfields, batters eye, construction sites, and privacy fencing. The basic VCM mesh is an upper middle grade material that performs well in light to moderate wind areas.</p>
+<p>Areas with high winds are recommended that you add an additional middle hem and grommet support strip.  This can be added by calling or requesting a quote.</p>
+<p>The material is available in raw material heights of 6'H and 9'H and can be cut to any length segments. </p>
+<p>Price is by Linear Foot.</p>
+<h3>Features</h3>
+<ul class="features">
+<li>Maximum UV sunlight protection</li>
+<li>Ultra-strong, 6-ply construction at the hem</li>
+<li>4 plies of black reinforcing binding</li>
+<li>2 plies of windscreen</li>
+<li>1-1/2" wide hems – double-stitched with polyester thread</li>
+<li>Brass rust proof grommets – spaced 18" apart on all sides</li>
+<li>Center lacing lip – standard for screens over 6' <br> (extra row of grommets prevents wind damage)</li>
+</ul>
+<h5>How to order</h5>
+<p><strong>Request a Quote</strong></p>
+<ul>
+<li>Measure your fence height and length(s)</li>
+<li>Measure any gates to cover</li>
+<li>Provide list of heights and lengths to via quote form or email</li>
+</ul>
+<p> </p>
+<p><strong>You can buy online</strong></p>
+<ul>
+<li>Enter your size into the calculator</li>
+<li>Add the panels/length you need individually</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT_Windscreen</s:tag>
+    <s:tag>SPORT_Baseball</s:tag>
+    <s:tag>SPORT_Softball</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Black / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Black / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Navy Blue / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Navy Blue / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Royal Blue / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Royal Blue / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Forest Green / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Forest Green / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Purple / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Purple / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Red / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Red / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Maroon / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Maroon / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Orange / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Orange / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Carolina Blue / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Carolina Blue / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Kelly Green / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Kelly Green / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Light Gray / 6&apos;H Material</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8764158604</id>
+      <title>Light Gray / 9&apos;H Material</title>
+      <s:price currency="USD">6.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8763957196</id>
+    <published>2016-10-17T18:57:00-05:00</published>
+    <updated>2016-10-17T18:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/windscreen-privacy-fence-armormesh"/>
+    <title>ArmorMesh Windsceen &amp; Privacy Fence Screen</title>
+    <s:type>Windscreen</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/armormesh.jpg?v=1476792477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Windscreen<br>
+        <strong>Price: </strong>
+            4.99 - 7.39
+            <a href="https://www.kodiaksports.com/products/windscreen-privacy-fence-armormesh">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Armor Mesh Details</h5>
+<p>The PolyE Armor Mesh windscreen is an excellent choice for baseball outfields, batters eye, construction sites, and privacy fencing.</p>
+<p>Areas with high winds are recommended that you add an additional middle hem and grommet support strip.  This can be added by calling or requesting a quote.</p>
+<p>The material is available in raw material heights of 6'H and 9'H and can be cut to any length segments. </p>
+<p>Price is by Linear Foot.</p>
+<h3>Features</h3>
+<ul>
+<li>Doubled heat sealed hems</li>
+<li>Self Hemmed (no black border)</li>
+<li>14oz Heavy Duty Vinyl Coated PolyE Mesh</li>
+<li>1-1/2" wide hems – double-stitched with polyester thread</li>
+<li>Brass rust proof grommets – spaced 18" apart on all sides</li>
+<li>Center lacing lip – standard for screens over 6' <br> (extra row of grommets prevents wind damage)</li>
+</ul>
+<h3>Durability</h3>
+<p>ArmorMesh is a 14 oz. woven, <b>extrusion vinyl-coated</b> polyester material with <b>excellent tear strength and abrasion resistance</b>. Significantly stronger than traditional VCM dip-coated windscreen and up to <b>6 times the abrasion resistance</b>.</p>
+<p>Kodiak Armor Mesh windscreen is the most durable windscreen on the market. 642% high abrasion resistance (this is not a typo, 642% by ASTM D3884 Taber Abrasion test)</p>
+<p>Armor Mesh is 40% heavier than standard windscreen material and 15% more puncture and burst resistant.</p>
+<h5>How to order</h5>
+<p>You may request a quote via the web form:</p>
+<ul>
+<li>Measure your fence height and length(s)</li>
+<li>Measure any gates to cover</li>
+<li>Provide list of heights and lengths to via quote form or email</li>
+</ul>
+<p>You can buy online</p>
+<ul>
+<li>Enter your size into the calculator</li>
+<li>Add the panels/length you need individually</li>
+</ul>
+<p> </p>
+<h2 class="armormesh"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT_Windscreen</s:tag>
+    <s:tag>SPORT_Baseball</s:tag>
+    <s:tag>SPORT_Softball</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Black / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Black / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Navy Blue / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Navy Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Royal Blue / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Royal Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Forest Green / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Forest Green / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Purple / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Purple / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Red / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Red / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Maroon / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Maroon / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Orange / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Orange / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Carolina Blue / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Carolina Blue / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Kelly Green / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Kelly Green / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Light Gray / 6&apos;H Material</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8763957196</id>
+      <title>Light Gray / 9&apos;H Material</title>
+      <s:price currency="USD">7.39</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

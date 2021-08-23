@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kodiaksports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kodiaksports.com/collections/tennis-equipment.atom"/>
+  <title>Kodiak Sports, LLC</title>
+  <updated>2016-10-14T09:48:00-05:00</updated>
+  <author>
+    <name>Kodiak Sports, LLC</name>
+  </author>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8772608396</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tennis-tutor-by-sports-tutor"/>
+    <title>Tennis Tutor By Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/tennistutor_1.jpg?v=1476965460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            1099.00 - 2349.00
+            <a href="https://www.kodiaksports.com/products/tennis-tutor-by-sports-tutor">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Tennis Tutor</h3>
+<p>The Tennis Tutor by Sports Tutor is the most popular portable tennis machine on the market; offering an excellent price point, high ball speed and mid size ball capacity.</p>
+<p>The Tennis Tutor Player Mode simulates a real player – Automatically picks an appropriate speed and spin, then changes both the side-to-side position and depth of shots, which are computer programmed to simulate the shot patterns of real players.<br><br>Easy to use pre-programmed user levels allow you to push a button "Beginner – Intermediate or Advanced" and it’s done! Just like you are playing someone of that ability.  Includes 2-line oscillator features – ‘Random’, ‘2-line narrow’, and ‘2-line wide’ oscillator buttons.</p>
+<ul></ul>
+<ul></ul>
+<h5>Specifications</h5>
+<ul>
+<li>Ball capacity: 150 balls</li>
+<li>Ball ejection speed: 10-85 MPH</li>
+<li>Ball feed rate: 1 1/2 to 12 seconds</li>
+<li>Trajectories: groundstroke to lob</li>
+<li>Oscillator: Built-in</li>
+<li>Battery Type: Lead-acid, solid, sealed</li>
+<li>Playing Time: 4-6 hours w/heavy duty battery</li>
+<li>Recharge Time: 12 hours</li>
+<li>Dimensions:Tennis Tutor-12″H x 19.5″L x 20″W (hopper closed)</li>
+<li>Dimensions: Tennis Tutor Plus-20″H x 19.5″L x 20″W</li>
+<li>Weight: Tennis Tutor-42 pounds <span>(including 12 lbs Heavy Duty battery)</span>           </li>
+<li>Weight: Tennis Tutor Plus-46 pounds <span>(including 12 lbs Heavy Duty battery)</span>
+</li>
+</ul>
+<h5>Features</h5>
+<ul>
+<li>Many different machine model options to choose from </li>
+<li>Electronic control panel</li>
+<li>Anti-Jam ball feeding mechanism</li>
+<li>10 second ball delivery delay, allows you to get into position before throwing</li>
+<li>Built in heavy duty rechargeable battery</li>
+<li>Portable handle to haul just like a luggage bag</li>
+</ul>
+<strong>Tennis Tutor Plus </strong><br>
+<ul>
+<li>Has All features of the standard Tennis Tutor</li>
+<li>Adds Topspin and underspin</li>
+<li>Elevation Display</li>
+<li>Player mode to simulate shot patterns of real players </li>
+</ul>
+<ul></ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor</title>
+      <s:price currency="USD">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor w/Wireless Remote</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor w/2-line feature</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor w/Remote &amp; 2-line feature</title>
+      <s:price currency="USD">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus</title>
+      <s:price currency="USD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus w/2 Button Remote</title>
+      <s:price currency="USD">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player</title>
+      <s:price currency="USD">1749.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player w/2 Button Remote</title>
+      <s:price currency="USD">1949.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player w/Multi Remote</title>
+      <s:price currency="USD">2149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus-AC/DC</title>
+      <s:price currency="USD">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus-AC/DC w/2 Button Remote</title>
+      <s:price currency="USD">1699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player-AC/DC</title>
+      <s:price currency="USD">1949.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player-AC/DC w/2 Button Remote</title>
+      <s:price currency="USD">2149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player-AC/DC w/Multi Remote</title>
+      <s:price currency="USD">2349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus-External Battery Pack</title>
+      <s:price currency="USD">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus-External Battery Pack w/2 Button Remote</title>
+      <s:price currency="USD">1599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player-External Battery Pack</title>
+      <s:price currency="USD">1849.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player-External Battery Pack w/2 Button Remote</title>
+      <s:price currency="USD">2049.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772608396</id>
+      <title>Tennis Tutor Plus Player-External Battery Pack w/Multi Remote</title>
+      <s:price currency="USD">2249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8772252812</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tennis-tower-by-sports-tutor"/>
+    <title>Tennis Tower By Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/tennistower_5.jpg?v=1476965469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            1395.00 - 2445.00
+            <a href="https://www.kodiaksports.com/products/tennis-tower-by-sports-tutor">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Tennis Tower</h3>
+<p>The Sports Tutor Tennis Tower is designed for mid to high level players seeking to improve their game and have using high energy workouts, fast ball feed rate and match like serves.</p>
+<p>The large ball capacity and line to line oscillator mode will keep any player on their toes.  The pre-set 2 shot position will also allow a player to alternate forehand and backhand shorts at a rapid rate for reaction time training.</p>
+<p>This machine is an excellent choice for mid to high level players.</p>
+<h5>Specifications</h5>
+<ul>
+<li>Ball capacity: 225 balls</li>
+<li>Ball ejection speed: 10-85 MPH</li>
+<li>Ball feed rate: 1 1/2 to 10 seconds</li>
+<li>Trajectories: groundstroke to lob</li>
+<li>Spin Control: topspin/underspin</li>
+<li>Oscillator: built-in</li>
+<li>Dimensions: 44″H x 23″L x 22″W</li>
+<li>Weight: 65 lbs</li>
+<li>Power: 100 watts maximum</li>
+<li>Adjustable Spin: heavy underspin, flat, and heavy topspin (except on Competitor Classic)</li>
+</ul>
+<h5>Features </h5>
+<ul>
+<li>
+<strong>Professional Player</strong>: Includes all standard features, a remote, player mode, a pre-programmed 2 line function, and elevation display</li>
+<li>
+<strong>Professional Player w/Multi Remote</strong>: Includes all standard features, player mode, a pre-programmed 2 line function, elevation display and the multi-function wireless remote. The remote has all the controls as the control panel on the machine; allowing you to control from the opposite side of the court.</li>
+<li>
+<strong>Competitor Classic</strong>: Includes all standard features, EXCEPT Spin control</li>
+<li>
+<strong>Competitor</strong>: Includes all standard features, INCLUDING Spin control</li>
+<li>
+<strong>Club</strong>: Includes all standard features and the wireless 2 button remote; controlling the ball feed and the oscillation </li>
+<li>ALL machines come with a protective all-weather cover</li>
+</ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772252812</id>
+      <title>Competitor Classic</title>
+      <s:price currency="USD">1395.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772252812</id>
+      <title>Competitor</title>
+      <s:price currency="USD">1645.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772252812</id>
+      <title>Club</title>
+      <s:price currency="USD">1845.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772252812</id>
+      <title>Professional Player</title>
+      <s:price currency="USD">2245.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8772252812</id>
+      <title>Professional Player w/multi remote</title>
+      <s:price currency="USD">2445.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8767119564</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/wilson-portable-by-sports-tutor"/>
+    <title>Wilson Portable Tennis Machine By Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/wilsonportable_1.jpg?v=1476878780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            1145.00 - 1545.00
+            <a href="https://www.kodiaksports.com/products/wilson-portable-by-sports-tutor">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Wilson Portable</h3>
+<p>The Wilson Portable Ball Machine joins cutting edge transportability with the execution you anticipate from Wilson. The primary measure of a convenient machine is its genuine convenience. The Wilson Portable Ball Machine is lighter and more compact than any other ball machine with comparative components. <br><br>In addition, it incorporates an implicit handle and towing wheels to upgrade transportability.</p>
+<h5>Specifications</h5>
+<ul>
+<li>Ball capacity: 110 balls</li>
+<li>Ball ejection speed: 10 to 75 MPH</li>
+<li>Trajectories: groundstroke to lob</li>
+<li>Intervals: 1-1/2 to 10 seconds</li>
+<li>Spin: topspin and backspin</li>
+<li>Oscillator: Random</li>
+<li>Playing Time: 3 to 4 hours</li>
+<li>Weight (including battery): 38 pounds</li>
+<li>Dimensions: 22″L x 14″W x 20″H</li>
+</ul>
+<h5>Features </h5>
+<ul>
+<li>Speed Controls</li>
+<li>Spin Controls: Adjustable for flat shot or different degrees of  topspin or backspin</li>
+<li>Built in Oscillator: Delivers balls in Random mode or to one position </li>
+<li>All in One Control Panel</li>
+<li>Battery Life: 3-4 hours per charge </li>
+<li>Portable </li>
+<li>Built in handle and towing wheels </li>
+</ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8767119564</id>
+      <title>Wilson Portable Ball Machine</title>
+      <s:price currency="USD">1145.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8767119564</id>
+      <title>Wilson Portable Ball Machine w/Remote</title>
+      <s:price currency="USD">1345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8767119564</id>
+      <title>Wilson Portable Ball Machine w/2line</title>
+      <s:price currency="USD">1345.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8767119564</id>
+      <title>Wilson Portable Ball Machine w/Remote &amp; 2line feature</title>
+      <s:price currency="USD">1545.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8762065100</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tennis-machine"/>
+    <title>Shot Maker Tennis Machine by Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/shotmaker_5.png?v=1476792488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            3200.00 - 4500.00
+            <a href="https://www.kodiaksports.com/products/tennis-machine">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Shot Maker</h3>
+<p>The Shot Maker tennis machine by sports tutor has several options to suit your level of play and preferences for difficulty. The basic mode offers up to 3 shot positions while the deluxe model offers up to 6 positions.  The ball speed is completely variable and can be programmed to remember your favorite practice shot speeds and locations.</p>
+<h5>Specifications</h5>
+<ul>
+<li>Ball capacity: 300 tennis balls</li>
+<li>Trajectories: groundstroke to lob</li>
+<li>Ball ejection speed: 10-95 MPH</li>
+<li>Ball feed interval: 1 to 6 seconds</li>
+<li>Spin control: topspin/underspin</li>
+<li>Dimensions: 38.5“H x 31″L x 21.5″W</li>
+<li>Weight: 90 lbs</li>
+<li>Power: 115v standard grounded outlet</li>
+</ul>
+<h5>Features</h5>
+<ul>
+<li>Player Mode: Pick between Beginner, Intermediate or Advanced </li>
+<li>Oversized caster wheels for easy rolling</li>
+<li>Optional Wireless 2 button remote: On the Standard Shotmaker Control, the remote allows you to control starting and stopping of the ball delivery and control the side to side position of the balls thrown</li>
+<li>Deluxe Option Comes with a Wireless 2 button remote: The 2 button remote has a Ball feed button and an Oscillating button</li>
+<li>Deluxe Option with multi-functioning remote: Interval, Speed, Elevation, Spin, Quick set up mode, Player mode, Start/Stop, and Off switches</li>
+<li>All-weather protective cover is included with the machines</li>
+<li>A high impact plastic cover, covers the control panel for extra protection</li>
+<li>Standard Control Panel Options: Speed, Spin, Interval, Positions- A, B, and C, or Random</li>
+<li>Deluxe Model Control Options: Program balls to shoot in a pattern of up to 6 different shots, to any of the 7 different court positions or can set it to shoot to a random position. Speed, Spin, Interval, Random, Quick set up, and Player modes. </li>
+</ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8762065100</id>
+      <title>Standard Model</title>
+      <s:price currency="USD">3200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8762065100</id>
+      <title>Standard Model w/2 button Remote</title>
+      <s:price currency="USD">3400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8762065100</id>
+      <title>Deluxe Model w/2 button Remote</title>
+      <s:price currency="USD">4200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8762065100</id>
+      <title>Deluxe Model w/Multi-Function Remote</title>
+      <s:price currency="USD">4500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8748892620</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tennis-cube-by-sports-tutor"/>
+    <title>Tennis Cube By Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/tenniscube_2.jpg?v=1476533235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            679.99 - 769.99
+            <a href="https://www.kodiaksports.com/products/tennis-cube-by-sports-tutor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Tennis Cube</h3>
+<p>The Sports Tutor Tennis Cube is a great machine for on the go youth to entry level tennis players. </p>
+<p>The machine holds the perfect amount of tennis balls from 1 pickup basket, fits easily in the truck of a car or back of any suv.</p>
+<p>The optional oscillator function allows the beginner to get a range of motion and return serves at a reasonable/modest speed.</p>
+<p>This machine is too basic for advanced tennis players.</p>
+<h5>Specifications</h5>
+<ul>
+<li>Ball capacity: 70 Balls</li>
+<li>Trajectories: groundstroke to lob</li>
+<li>Ball ejection speed: 10-50 MPH</li>
+<li>Ball feed rate: 2-10 seconds</li>
+<li>Playing time: 1-1/2 to 2 hours, typical</li>
+<li>Dimensions (closed): 15″H x 12″L x 13″W</li>
+<li>Weight: 24 lbs </li>
+<li><span>Optional: Oscillator- throws balls in a sweeping motion from side to side</span></li>
+</ul>
+<h5>Features</h5>
+<ul>
+<li>Elevation adjustment</li>
+<li>Smart battery charger (included) </li>
+<li>Waits 10 seconds after turning it on to begin throwing </li>
+</ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a limited 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8748892620</id>
+      <title>Tennis Cube</title>
+      <s:price currency="USD">679.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8748892620</id>
+      <title>Tennis Cube with oscillator</title>
+      <s:price currency="USD">769.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8748607628</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tennis-twist-by-sports-tutor"/>
+    <title>Tennis Twist By Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/tennistwist_1.gif?v=1476965466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Tennis Twist</h3>
+<p>Sports Tutor Tennis Twist is a great machine for beginning tennis players. This machine can also double as a practice machine for beginning baseball players tossing a tennis ball for batting practice. The adjustable range of the Tennis Twist makes it easy to use anywhere.</p>
+<p>The Tennis Twist is not recommend for players above 7-8 years old.</p>
+<h5>Specifications</h5>
+<ul>
+<li>Ball capacity: 28 balls</li>
+<li>Ball ejection speed: 10-20 ft toss</li>
+<li>Ball feed: 5 seconds intervals</li>
+<li>Playing time(Battery Model): 5-10 hours</li>
+<li>Weight(w/ Battery): 11 pounds</li>
+</ul>
+<h5>Features</h5>
+<ul>
+<li>Built in carrying handles </li>
+<li>High impact plastic case</li>
+<li>Easy operation</li>
+</ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a limited 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8748607628</id>
+      <title>Tennis Twist with Battery</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8748607628</id>
+      <title>Tennis Twist AC-powered</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8747920332</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/tennis-tutor-prolite"/>
+    <title>Tennis Tutor ProLite By Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/prolite_1.jpg?v=1476533238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            699.00 - 989.00
+            <a href="https://www.kodiaksports.com/products/tennis-tutor-prolite">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Tennis Tutor ProLite</h3>
+<p>The Tennis Tutor ProLite by Sports Tutor is a very popular choice for lower to mid level tennis players.  The Tennis Tutor ProLite is lighter and easier to carry than the regular model; but does not eject the ball at the same velocity. </p>
+<h5>Specifications</h5>
+<ul>
+<li>Ball ejection speed: 10-60 MPH</li>
+<li>Ball feed rate: 1.5 to 10 seconds</li>
+<li>Playing time: 2 to 3 hours (Battery Model)</li>
+<li>Ball capacity: ProLite 125 Balls, ProLite Plus 110 Balls</li>
+<li>Spin Capability ProLite: Flat</li>
+<li>Spin Capability ProLite Plus: Flat or Topspin</li>
+<li>Dimensions: ProLite 12″H x 19.5″L x 18″W</li>
+<li>Dimensions: ProLite Plus: 20“H x 22″L x 14″W</li>
+<li><span>Oscillator: Optional</span></li>
+</ul>
+<h5>Features</h5>
+<ul>
+<li>Five-second set-up</li>
+<li>Versatile speed ball</li>
+<li>Variable ball feed</li>
+<li>Start-up time delay</li>
+<li>Full range of trajectories</li>
+<li>Full-court oscillator (Optional)</li>
+<li>Battery-powered models</li>
+</ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a limited 3 year warranty, covering parts and labor. Extended warranties are also available.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Tennis Ball Machine</s:tag>
+    <s:tag>SPORT_Tennis</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite – Basic AC (AC-powered, no oscillator)</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite – Basic Battery (Battery-powered, no oscillator)</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite – AC (AC-powered, with oscillator)</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite – Battery (Battery-powered, with oscillator)</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite Plus – Basic AC (AC-powered, no oscillator)</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite Plus – Basic Battery (Battery-powered, no oscillator)</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis ProLite Plus – AC (AC-powered, with oscillator)</title>
+      <s:price currency="USD">989.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8747920332</id>
+      <title>Tennis Tutor ProLite Plus – Battery (Battery-powered, with oscillator)</title>
+      <s:price currency="USD">989.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kodiaksports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kodiaksports.com/collections/trampoline-park.atom"/>
+  <title>Kodiak Sports, LLC</title>
+  <updated>2019-06-11T15:26:07-05:00</updated>
+  <author>
+    <name>Kodiak Sports, LLC</name>
+  </author>
+  <entry>
+    <id>https://www.kodiaksports.com/products/3824959750257</id>
+    <published>2019-06-11T15:26:07-05:00</published>
+    <updated>2019-06-11T15:26:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/vinyl-bonded-foam-rolls"/>
+    <title>Vinyl Bonded Foam Rolls</title>
+    <s:type>Foam Flooring</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/vinyl_bonded.png?v=1560369913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Foam Flooring<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carpet bonded foam is used for most martial arts, gymnastics, fitness, wrestling and training studios along with trampoline air parks.  The foam flooring can be used for other high impact areas for dance, martial arts, and even as wall padding.</p>
+<p><span>Vinyl bonded crosslinked polyethylene foam with vinyl top layer is available in 2 thicknesses.</span></p>
+<p>Kodiak vinyl bonded foam is designed with flexible/slit backing.</p>
+<p>Vinyl bonded foam is available in the standard Polyethylene.</p>
+<h3>Standard Rolls Specs</h3>
+<ul>
+<li>Size: 6'W x 42'</li>
+<li>Standard PE rolls are available in 1-3/8” and 2″ thicknesses.</li>
+</ul>
+<p>Kodiak also manufactures vault runways, as well as sizes of practice mats of different sizes.</p>
+<h3>Colors Available:</h3>
+<p>Black, Blue, Light Gray, Purple, Red, and Yellow</p>
+<h3></h3>
+<h3>Custom Sizes:</h3>
+<p>Custom size vinyl bonded rolls are not offered at this time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Kodiak Sports</s:tag>
+    <s:tag>PRODUCT_Carpet Bonded Foam</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Blue / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Blue / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Blue / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Green / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Green / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Green / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Black / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Black / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Black / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Light Gray / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Light Gray / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Light Gray / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Charcoal / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Charcoal / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Charcoal / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Orange / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Orange / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Orange / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Pink / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Pink / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Pink / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Purple / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Purple / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Purple / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Teal / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Teal / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Teal / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Red / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Red / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3824959750257</id>
+      <title>Red / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/3516732178545</id>
+    <published>2019-06-11T10:11:12-05:00</published>
+    <updated>2019-06-11T10:11:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/velcro-carpet-bonded-foam"/>
+    <title>Velcro For Carpet Bonded Foam 4&quot;W x 42&apos;L</title>
+    <s:type>Foam Flooring</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/color_velcro.jpg?v=1560269138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Foam Flooring<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kodiak sells Velcro for carpet bonded foam is sold in 4"W x 42'L Rolls.</p>
+<p>The 4"W Velcro holds the carpet bonded foam rolls together by joining the face fiber on the rolls.<br><br>The 4" hook/width is also ideal for simulating a floor balance beam. Velcro can be used to mark zones on the floor or separate areas with different colors.<br><br>The Velcro hook will only stick to carpet bonded foam NOT to Flex Floor Ex carpet. </p>
+<h3>Standard Rolls Specs</h3>
+<ul>
+<li>Size: 4"W x 42'L</li>
+</ul>
+<h3>Colors Available:</h3>
+<p>Black, Blue, Charcoal, Green, Light Gray, Orange, Pink, Purple, Red, and Teal.</p>
+<h3>Custom Sizes:</h3>
+<p>Not available at this time, all Velcro rolls are 42'L</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Kodiak Sports</s:tag>
+    <s:tag>PRODUCT_Carpet Bonded Foam</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Blue</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Green</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Light Gray</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Charcoal</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Orange</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Pink</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Purple</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Teal</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/3516732178545</id>
+      <title>Red</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/155382415385</id>
+    <published>2018-01-04T16:53:34-06:00</published>
+    <updated>2018-01-04T16:53:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/carpet-bonded-foam-rolls"/>
+    <title>Carpet Bonded Foam Rolls</title>
+    <s:type>Foam Flooring</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/Flex-Roll-Mat-copy.png?v=1515114811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Foam Flooring<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carpet bonded foam is used for most gymnastic, cheerleading studios along with trampoline air parks.  The foam flooring can be used for other high impact areas for dance, martial arts, and even as wall padding.</p>
+<p>Kodiak Carpet bonded foam is available in solid/flat backing or the flex/slit backing.</p>
+<p>Carpet bonded foam is available in the standard Polyethylene, EVA foam option is also available.</p>
+<p>What's the difference? EVA foam is considered a premium foam. It’s slightly softer and more flexible. There is presumed to be some additional rebound and shock absorption as well.</p>
+<h3>Standard Rolls Specs</h3>
+<ul>
+<li>Size: 6'W x 42'</li>
+<li>Standard PE rolls are available in 1-3/8” and 2″ thicknesses.</li>
+<li>EVA backed rolls are available in 1-1/2″ and 2″ thicknesses. </li>
+</ul>
+<p>Kodiak also manufactures vault runways, as well as sizes of practice mats of different sizes.</p>
+<h3>Colors Available:</h3>
+<p>Black, Blue, Charcoal, Green, Light Gray, Orange, Pink, Purple, Red, and Teal.</p>
+<h3>Velcro</h3>
+<p>Rolls come with velcro to join. You get 1 velcro strip per seam. <br>IE: Order 1 Roll, no velcro. Order 2 rolls, you get 1 strip of velcro. Order 4 rolls, you get 3 strips of velcro.</p>
+<h3>Custom Sizes:</h3>
+<p>Custom size carpet bonded foam rolls are available with a longer lead time(4 weeks)<br>Max Width: 78"<br>Max Length: 90'</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Kodiak Sports</s:tag>
+    <s:tag>PRODUCT_Carpet Bonded Foam</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Blue / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Blue / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Blue / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Blue / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Blue / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Blue / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Green / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Green / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Green / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Green / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Green / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Green / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Black / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Black / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Black / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Black / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Black / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Black / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Light Gray / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Light Gray / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Light Gray / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Light Gray / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Light Gray / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Light Gray / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Charcoal / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Charcoal / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Charcoal / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Charcoal / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Charcoal / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Charcoal / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Orange / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Orange / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Orange / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Orange / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Orange / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Orange / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Pink / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Pink / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Pink / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Pink / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Pink / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Pink / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Purple / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Purple / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Purple / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Purple / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Purple / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Purple / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Teal / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Teal / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Teal / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Teal / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Teal / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Teal / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Red / Solid Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Red / Solid Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Red / Solid Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Red / Flexi Backing / 1-3/8&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Red / Flexi Backing / 1-1/2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/155382415385</id>
+      <title>Red / Flexi Backing / 2&quot; Thick</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/9810495628</id>
+    <published>2017-03-01T10:55:00-06:00</published>
+    <updated>2017-03-01T10:55:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/foam-pit-block-cubes"/>
+    <title>Foam Pit Cubes &amp; Blocks for Gymnastics, Fitness and Training</title>
+    <s:type>Foam Cubes</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/foam_cube_blue.jpg?v=1612374670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Foam Cubes<br>
+        <strong>Price: </strong>
+            159.99 - 165.99
+            <a href="https://www.kodiaksports.com/products/foam-pit-block-cubes">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Foam Pit Cubes are used for training scenarios when soft landings are needed for many odd shaped devices or people impacting the ground doing extreme activities.<br></p>
+<p>The high grade open cell polyurethane cubes are fire retardant.  The cubes offer 45 ILD foam with a density of 1.45 lbs.  The cubes come in 6" and 8" sizes and meet California Technical Bulletin 117 safety standards and are Fire Retardant.</p>
+<p>Flat mats and other mats don't work well for stunt landing, aerial work, gymnastic work that requires the athlete to push their body to the extreme...landing safely in the cubes allows athletes to let go of fear and allow them to perform.</p>
+<h3>ORDER MINIMUM:</h3>
+<p>Minimum order now requires at least 4 packs...we are unable to fulfill small cube orders below that minimum due to freight being 2-3 x the cost of product.</p>
+<h3></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT_Foam Pit Cubes</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Black</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_black</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Dark Blue</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_blue</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Red</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_red</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Kelly Green</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_green</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Purple</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_purple</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Yellow</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_yellow</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Lime Green</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_lime</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Charcoal Gray</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_chargray</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Light Gray</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_lightgray</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>6&quot; x 6&quot; - 96 Pack / Orange</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>env_foam6x6_orange</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Black</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_black</s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Dark Blue</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_blue</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Red</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_red</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Kelly Green</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_green</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Purple</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_purple</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Yellow</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_yellow</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Lime Green</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_lime</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Charcoal Gray</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_chargray</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Light Gray</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_lightgray</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/9810495628</id>
+      <title>8&quot; x 8&quot; - 45 Pack / Orange</title>
+      <s:price currency="USD">165.99</s:price>
+      <s:sku>env_foam8x8_orange</s:sku>
+      <s:grams>167829</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8632199244</id>
+    <published>2016-09-11T22:27:00-05:00</published>
+    <updated>2016-09-11T22:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/wall-padding-wood-backed"/>
+    <title>Wood Backed Wall Padding</title>
+    <s:type></s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/20151209_214740.jpg?v=1474950066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kodiak basic wall padding is covered in durable UV treated 18oz vinyl with all weather ethafoam filler. Wood backed pads can be used indoor or outdoor.</p>
+<p>Kodiak Sports also makes custom wall pad pads with wood backings, nailer lips, z-clips and many other options for more complicated/custom projects. Please call or email for additional information on wood backed foam padding.</p>
+<h3>Wall Padding Product Highlights:</h3>
+<ul>
+<li>Wall Padding has a wood backing</li>
+<li>Mounting System choice: 1" Nailer Lip Top and Bottom or Aluminum Z-Clip Rails</li>
+<li>18 oz. UV Treated Vinyl</li>
+<li>2" Thick High Density All Weather Foam Padding</li>
+<li>Pads are generally done in 2' or 4' wide strips and cut to height.  Max height on 1 pad is 8' (due to max size of plywood)</li>
+<li>Colors:Call to place order for colors not listed</li>
+<li>Allow 3-4 weeks for delivery.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Kodiak Sports</s:tag>
+    <s:tag>PRODUCT_Backstop Padding</s:tag>
+    <s:tag>PRODUCT_Wall Padding</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8632199244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+  </entry>
+</feed>

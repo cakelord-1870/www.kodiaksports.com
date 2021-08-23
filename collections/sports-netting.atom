@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kodiaksports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kodiaksports.com/collections/sports-netting.atom"/>
+  <title>Kodiak Sports, LLC</title>
+  <updated>2017-01-19T15:21:00-06:00</updated>
+  <author>
+    <name>Kodiak Sports, LLC</name>
+  </author>
+  <entry>
+    <id>https://www.kodiaksports.com/products/11025481804</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/boundary-markers-with-net-antennas-porter"/>
+    <title>Boundary Markers with Net Antennas</title>
+    <s:type>Volleyball Equipment</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/00546000.jpg?v=1497554835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Volleyball Equipment<br>
+        <strong>Price: </strong>
+            48.00 - 99.00
+            <a href="https://www.kodiaksports.com/products/boundary-markers-with-net-antennas-porter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Boundary Markers with Net Antennas</h3>
+<p>Porter Athletics Boundary Markers are 2" wide. They come with hook and loop attachment strips to secure to the net, as well as pockets to allow positioning the fiberglass antennas. </p>
+<p>Option to buy net antennas only or the boundary markers with antennas in the sleeves.</p>
+<p>Sold in Pairs</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Porter Athletic</s:tag>
+    <s:tag>SPORT_Volleyball</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/11025481804</id>
+      <title>Net Antennas Only- Pair</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>porter-00545000</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/11025481804</id>
+      <title>Boundary Markers with Antennas in Sleeves-Pair</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>porter-00546000</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/11025310092</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/intramural-volleyball-net-porter"/>
+    <title>Intramural Volleyball Net</title>
+    <s:type>Volleyball Net</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/02254000.jpg?v=1497551214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Volleyball Net<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Intramural Volleyball Net</h3>
+<p>Porter Athletics Intramural Volleyball Nets are made from heavy duty black polyester mesh. These nets are treated to allow usage for indoor and outdoor activities such as physical education classes and sand beach volleyball. </p>
+<ul>
+<li>Net measures 32'x36"</li>
+<li>3 ft long tie cords</li>
+<li>1/4" diameter x 45' black polypropylene top rope </li>
+</ul>
+<p> </p>
+<p>*Available August 25th</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Porter Athletic</s:tag>
+    <s:tag>SPORT_Volleyball</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/11025310092</id>
+      <title>Intramural Volleyball Net</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>porter-02254000</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/11007488140</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/recreational-volleyball-net-porter"/>
+    <title>Recreational Volleyball Net</title>
+    <s:type>Volleyball Net</s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/02255000.jpg?v=1497378411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong>Volleyball Net<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Recreational Volleyball Net</h3>
+<p>Porter Athletics Recreational Power Volleyball Nets are made of 4 inch black mesh nettings produced from #24 nylon.  This net comes with the spring loaded instant net tensioning device with a pull handle for proper tensioning of the bottom rope. </p>
+<p><span>Net measures 32'x39"</span></p>
+<p>Top kevlar cable is 44 feet long.</p>
+<p>Net Fits: Powr-Rib ll, Powr-Trak, and Economy Systems</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Porter Athletic</s:tag>
+    <s:tag>SPORT_Volleyball</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/11007488140</id>
+      <title>Recreational Volleyball Net</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>porter-02255000</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8529617478</id>
+    <published>2016-09-09T17:28:00-05:00</published>
+    <updated>2016-09-09T17:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/batting-cage-net-poly"/>
+    <title>Kodiak Poly Batting Cage Nets (standard sizes)</title>
+    <s:type></s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/virtual_kodiak_cage_912f6636-f69d-487d-9cc6-c8b3c0b7a696.jpg?v=1474949261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.99 - 899.99
+            <a href="https://www.kodiaksports.com/products/batting-cage-net-poly">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="display: block;" id="tab1" class="tas-divs">
+<div class="padd">
+<span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span style="font-family: Arial; font-size: 10pt;"></span></span>
+<div style="display: block;" id="tab1" class="tas-divs">
+<div class="padd">
+<span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span style="font-family: Arial; font-size: 10pt;">Kodiak Premium Series Poly Batting Cage Nets offer the highest tenacity materials and construction as well as the most features on any batting cage net currently available on the market, all at excellent prices.</span><br><span style="font-family: Arial; font-size: 10pt;"> </span><br><span style="font-family: Arial; font-size: 10pt;"><b>Kodiak Sports Premium Batting Cage Net Includes:</b></span><br></span>
+<ul>
+<li><span style="font-family: Arial; font-size: 10pt;">Full Rope Border and Center Rib Rope - All edges fully rope bound through every mesh link along the perimeter to a heavy rope border and woven through center rib line</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Sag Free sag elimination system, netting hung on the square to minimize sag for a more professional look and performance</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Corrosion resistant steel hardware in all corners and midway down the middle along the length</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">UV inhibitors impregnated into the net for complete UV stabilization and protection against weather and sunrays</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Entry door/slit with 3 Over flap for safe and easy access into and out of the net</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Fast Delivery</span></li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Made in the USA</span>
+</li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Stainless steel hardware in corners</span>
+</li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Net saver baffle added behind the batter for added safety and versatility</span>
+</li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Leaded bottom rope to minimize ball roll out and stabilize net</span>
+</li>
+</ul>
+<p style="margin: 8px 0px 8px 0px;"><b>Poly Net Tensile Strengths</b></p>
+<p style="margin: 8px 0px 8px 0px;">#21 is approx.. 1/16", approx. 95 lb. breaking strength. <br>#36 is approx.. 1/8", approx.185 lb. breaking strength.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT_Batting Cage Nets</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8529617478</id>
+      <title>55&apos;L x 12&apos;W x 12&apos;H / #36 Poly</title>
+      <s:price currency="USD">599.99</s:price>
+      <s:sku>spi_bd</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8529617478</id>
+      <title>55&apos;L x 14&apos;W x 12&apos;H / #36 Poly</title>
+      <s:price currency="USD">619.99</s:price>
+      <s:sku>spi_bd</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8529617478</id>
+      <title>55&apos;L x 14&apos;W x 14&apos;H / #36 Poly</title>
+      <s:price currency="USD">769.99</s:price>
+      <s:sku>spi_bd</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8529617478</id>
+      <title>70&apos;L x 12&apos;W x 12&apos;H / #36 Poly</title>
+      <s:price currency="USD">679.99</s:price>
+      <s:sku>spi_bd</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8529617478</id>
+      <title>70&apos;L x 14&apos;W x 12&apos;H / #36 Poly</title>
+      <s:price currency="USD">729.99</s:price>
+      <s:sku>spi_bd</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8529617478</id>
+      <title>70&apos;L x 14&apos;W x 14&apos;H / #36 Poly</title>
+      <s:price currency="USD">899.99</s:price>
+      <s:sku>spi_bd</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8515373702</id>
+    <published>2016-09-09T17:28:00-05:00</published>
+    <updated>2016-09-09T17:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/batting-cage-net-nylon"/>
+    <title>Kodiak Nylon Batting Cage Nets (standard sizes)</title>
+    <s:type></s:type>
+    <s:vendor>Kodiak Sports, LLC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/virtual_kodiak_cage.jpg?v=1474949231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kodiak Sports, LLC<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            659.99 - 2429.99
+            <a href="https://www.kodiaksports.com/products/batting-cage-net-nylon">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="display: block;" id="tab1" class="tas-divs">
+<div class="padd">
+<span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span style="font-family: Arial; font-size: 10pt;">Kodiak Premium Series Nylon Batting Cage Nets offer the highest tenacity materials and construction as well as the most features on any batting cage net currently available on the market, all at excellent prices.</span><br><span style="font-family: Arial; font-size: 10pt;"> </span><br><span style="font-family: Arial; font-size: 10pt;"><b>Kodiak Sports Premium Batting Cage Net Includes:</b></span><br></span>
+<ul>
+<li><span style="font-family: Arial; font-size: 10pt;">Full Rope Border and Center Rib Rope - All edges fully rope bound through every mesh link along the perimeter to a heavy rope border and woven through center rib line</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Sag Free sag elimination system, netting hung on the square to minimize sag for a more professional look and performance</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Corrosion resistant steel hardware in all corners and midway down the middle along the length</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">UV inhibitors impregnated into the net for complete UV stabilization and protection against weather and sunrays</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Entry door with 3 Over flap for safe and easy access into and out of the net</span></li>
+<li><span style="font-family: Arial; font-size: 10pt;">Fast Delivery</span></li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Made in the USA</span>
+</li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Stainless steel hardware in corners</span>
+</li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Net saver baffle added behind the batter for added safety and versatility</span>
+</li>
+<li>
+<span style="font-family: Arial; font-size: 10pt;"></span><span style="font-family: Arial; font-size: 10pt;">Leaded bottom rope to minimize ball roll out and stabilize net</span>
+</li>
+</ul>
+<p style="margin: 8px 0px 8px 0px;"><span style="font-family: Arial; font-size: 10pt;"><b>Nylon Net Tensile Strengths</b><br><br>#21 - 200 lbs single strand tensile strength<br>#36 - 320 lbs single strand tensile strength<br>#42 - 385 lbs single strand tensile strength - available upon request, call<br>#60 - 560 lbs single strand tensile strength<br></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PRODUCT_Batting Cage Nets</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 55&apos;L x 12&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">659.99</s:price>
+      <s:sku>spi_55-12-12-#21N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 55&apos;L x 12&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">729.99</s:price>
+      <s:sku>spi_55-12-12-#21N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 55&apos;L x 14&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">709.99</s:price>
+      <s:sku>spi_55-14-12-#21N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 55&apos;L x 14&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">789.99</s:price>
+      <s:sku>spi_55-14-12-#21N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 55&apos;L x 14&apos;W x 14&apos;H / No Latex Dip</title>
+      <s:price currency="USD">859.99</s:price>
+      <s:sku>spi_55-14-14-#21N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 55&apos;L x 14&apos;W x 14&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">999.99</s:price>
+      <s:sku>spi_55-14-14-#21N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 70&apos;L x 12&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">749.99</s:price>
+      <s:sku>spi_70-12-12-#21N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 70&apos;L x 12&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">849.99</s:price>
+      <s:sku>spi_70-12-12-#21N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 70&apos;L x 14&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">759.99</s:price>
+      <s:sku>spi_70-14-12-#21N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 70&apos;L x 14&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">869.99</s:price>
+      <s:sku>spi_70-14-12-#21N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 70&apos;L x 14&apos;W x 14&apos;H / No Latex Dip</title>
+      <s:price currency="USD">999.99</s:price>
+      <s:sku>spi_70-14-14-#21N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#21 Nylon / 70&apos;L x 14&apos;W x 14&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1059.99</s:price>
+      <s:sku>spi_70-14-14-#21N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 55&apos;L x 12&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>spi_55-12-12-#36N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 55&apos;L x 12&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">949.99</s:price>
+      <s:sku>spi_55-12-12-#36N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 55&apos;L x 14&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>spi_55-14-12-#36N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 55&apos;L x 14&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1039.99</s:price>
+      <s:sku>spi_55-14-12-#36N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 55&apos;L x 14&apos;W x 14&apos;H / No Latex Dip</title>
+      <s:price currency="USD">1199.99</s:price>
+      <s:sku>spi_55-14-14-#36N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 55&apos;L x 14&apos;W x 14&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1299.99</s:price>
+      <s:sku>spi_55-14-14-#36N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 70&apos;L x 12&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">929.99</s:price>
+      <s:sku>spi_70-12-12-#36N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 70&apos;L x 12&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1039.99</s:price>
+      <s:sku>spi_70-12-12-#36N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 70&apos;L x 14&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">1049.99</s:price>
+      <s:sku>spi_70-14-12-#36N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 70&apos;L x 14&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1169.99</s:price>
+      <s:sku>spi_70-14-12-#36N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 70&apos;L x 14&apos;W x 14&apos;H / No Latex Dip</title>
+      <s:price currency="USD">1239.99</s:price>
+      <s:sku>spi_70-14-14-#36N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#36 Nylon / 70&apos;L x 14&apos;W x 14&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1399.99</s:price>
+      <s:sku>spi_70-14-14-#36-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 55&apos;L x 12&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">1599.99</s:price>
+      <s:sku>spi_55-12-12-#60N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 55&apos;L x 12&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1849.99</s:price>
+      <s:sku>spi_55-12-12-#60N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 55&apos;L x 14&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">1869.99</s:price>
+      <s:sku>spi_55-14-12-#60N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 55&apos;L x 14&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1999.99</s:price>
+      <s:sku>spi_55-14-12-#60N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 55&apos;L x 14&apos;W x 14&apos;H / No Latex Dip</title>
+      <s:price currency="USD">2299.99</s:price>
+      <s:sku>spi_55-14-14-#60N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 55&apos;L x 14&apos;W x 14&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">2429.99</s:price>
+      <s:sku>spi_55-14-14-#60N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 70&apos;L x 12&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">1839.99</s:price>
+      <s:sku>spi_70-12-12-#60N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 70&apos;L x 12&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">1999.99</s:price>
+      <s:sku>spi_70-12-12-#60N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 70&apos;L x 14&apos;W x 12&apos;H / No Latex Dip</title>
+      <s:price currency="USD">2049.99</s:price>
+      <s:sku>spi_70-14-12-#60N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 70&apos;L x 14&apos;W x 12&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">2199.99</s:price>
+      <s:sku>spi_70-14-12-#60N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 70&apos;L x 14&apos;W x 14&apos;H / No Latex Dip</title>
+      <s:price currency="USD">2229.99</s:price>
+      <s:sku>spi_70-14-14-#60N</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8515373702</id>
+      <title>#60 Nylon / 70&apos;L x 14&apos;W x 14&apos;H / Latex Dip for Outdoor Use</title>
+      <s:price currency="USD">2429.99</s:price>
+      <s:sku>spi_70-14-14-#60N-LTX</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

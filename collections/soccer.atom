@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.kodiaksports.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.kodiaksports.com/collections/soccer.atom"/>
+  <title>Kodiak Sports, LLC</title>
+  <updated>2017-01-19T15:21:00-06:00</updated>
+  <author>
+    <name>Kodiak Sports, LLC</name>
+  </author>
+  <entry>
+    <id>https://www.kodiaksports.com/products/102919340057</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/climbing-ropes-gillathletics"/>
+    <title>Climbing Ropes</title>
+    <s:type>Training Ropes</s:type>
+    <s:vendor>Gill Athletics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/climingropes.jpg?v=1508778381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gill Athletics<br>
+        <strong>Type: </strong>Training Ropes<br>
+        <strong>Price: </strong>
+            266.99 - 1236.99
+            <a href="https://www.kodiaksports.com/products/climbing-ropes-gillathletics">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="narrow" style="position: static; visibility: visible;">Climbing Ropes</h3>
+<p class="narrow" style="position: static; visibility: visible;"><span>The Hemp Climbing Ropes are 1-1/2"  in diameter ropes containing 12% to 18% mineral oil  lubricant for long life. They are securely attached with a heavy-duty steel fitting for years of durability. </span></p>
+<p class="narrow" style="position: static; visibility: visible;"><span>If you ordered a rope with rubber knots, the knots are </span>anchored every 12".</p>
+<p class="narrow" style="position: static; visibility: visible;"><span>The Soft Dacron Ropes are ideal for elementary physical education programs. No-twist spun dacron material is easier on the hands than hemp ropes and will wear better than cotton. </span></p>
+<p class="narrow" style="position: static; visibility: visible;"><span>Dacron ropes are Hypoallergenic which will not cause the allergic reactions that are possible with treated ropes. </span></p>
+<p class="narrow" style="position: static; visibility: visible;"><span>Collegiate ropes are finished with a vinyl boot.</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gill Athletics</s:tag>
+    <s:tag>PRODUCT_Climbing Ropes</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Knotted End Hemp - 12&apos; Long</title>
+      <s:price currency="USD">324.99</s:price>
+      <s:sku>gill-00113120</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Knotted End Hemp - 16&apos; Long</title>
+      <s:price currency="USD">334.99</s:price>
+      <s:sku>gill-00113160</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Knotted End Hemp - 20&apos; Long</title>
+      <s:price currency="USD">347.99</s:price>
+      <s:sku>gill-00113200</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Knotted End Hemp - 24&apos; Long</title>
+      <s:price currency="USD">357.99</s:price>
+      <s:sku>gill-00113240</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Collegiate - 12&apos; Long</title>
+      <s:price currency="USD">266.99</s:price>
+      <s:sku>gill-00199012</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Collegiate - 16&apos; Long</title>
+      <s:price currency="USD">278.99</s:price>
+      <s:sku>gill-00199016</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Collegiate - 20&apos; Long</title>
+      <s:price currency="USD">277.99</s:price>
+      <s:sku>gill-00199020</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Collegiate - 24&apos; Long</title>
+      <s:price currency="USD">298.99</s:price>
+      <s:sku>gill-00199024</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Ball Knotted Hemp - 12&apos; Long</title>
+      <s:price currency="USD">770.99</s:price>
+      <s:sku>gill-00115120</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Ball Knotted Hemp - 16&apos; Long</title>
+      <s:price currency="USD">924.99</s:price>
+      <s:sku>gill-00115160</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Ball  Knotted Hemp - 20&apos; Long</title>
+      <s:price currency="USD">1081.99</s:price>
+      <s:sku>gill-00115200</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Ball Knotted Hemp - 24&apos; Long</title>
+      <s:price currency="USD">1236.99</s:price>
+      <s:sku>gill-00115240</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Dacron - 12&apos; Long</title>
+      <s:price currency="USD">312.99</s:price>
+      <s:sku>gill-00118120</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Dacron - 16&apos; Long</title>
+      <s:price currency="USD">330.99</s:price>
+      <s:sku>gill-00118160</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Dacron - 20&apos; Long</title>
+      <s:price currency="USD">349.99</s:price>
+      <s:sku>gill-00118200</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Vinyl Boot End Dacron - 24&apos; Long</title>
+      <s:price currency="USD">371.99</s:price>
+      <s:sku>gill-00118240</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Boat Knotted Dacron - 12&apos; Long</title>
+      <s:price currency="USD">634.99</s:price>
+      <s:sku>gill-00119120</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Boat Knotted Dacron - 16&apos; Long</title>
+      <s:price currency="USD">799.99</s:price>
+      <s:sku>gill-00119160</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Boat Knotted Dacron - 20&apos; Long</title>
+      <s:price currency="USD">951.99</s:price>
+      <s:sku>gill-00119200</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/102919340057</id>
+      <title>Boat Knotted Dacron - 24&apos; Long</title>
+      <s:price currency="USD">1098.99</s:price>
+      <s:sku>gill-00119240</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/74313662489</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/championship-goal-gillathletics-upper90"/>
+    <title>Championship Goal</title>
+    <s:type>Goals</s:type>
+    <s:vendor>Gill Athletics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/48713.jpg?v=1505929543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gill Athletics<br>
+        <strong>Type: </strong>Goals<br>
+        <strong>Price: </strong>
+            189.99 - 4317.99
+            <a href="https://www.kodiaksports.com/products/championship-goal-gillathletics-upper90">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="narrow" style="position: static; visibility: visible;">The Upper90 Championship Goals have a portable design with the option of a transport wheel kit. The goals are made of four inch round aluminum and available with 3 different net styles. </p>
+<p class="narrow" style="position: static; visibility: visible;">This goal meets FIFA, NCAA, and NFHS Specifications.</p>
+<ul></ul>
+<p class="narrow" style="position: static; visibility: visible;"><strong> Championship </strong><strong>Package Includes</strong>:</p>
+<ul>
+<li>8' x 24' Goals (Pair)</li>
+<li>Nets (Pair)</li>
+<li>Transport Kit (Pair)</li>
+<li>Rear Spreader Tube Kit- provides additional sternness during transport</li>
+<li>Auger Anchor Kit- secures around back bar tubing to prevent tippings</li>
+</ul>
+<br>
+<ul></ul>
+<p><strong>8' x 24' Goals Includes:</strong></p>
+<ul>
+<li>
+<strong></strong>8' x 24' Goals- Pair</li>
+<li>Rear Spreader Tube Kit- provides additional sternness during transport</li>
+<li><span>Auger Anchor Kit- secures around back bar tubing to prevent tippings</span></li>
+</ul>
+<h5>Sold Separately </h5>
+<ul></ul>
+<p><strong>Nets:</strong> </p>
+<ul>
+<li>3mm x 5" Square Braid Nets- White</li>
+<li>3mm x 5" Square Twist Nets- White</li>
+<li>3mm x 5" Square Twist Nets- Orange</li>
+</ul>
+<p><strong>Accessories</strong></p>
+<p>Transport Kit</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gill Athletics</s:tag>
+    <s:tag>PRODUCT_Goals</s:tag>
+    <s:tag>SPORT_Soccer</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/74313662489</id>
+      <title>Championship Package</title>
+      <s:price currency="USD">4317.99</s:price>
+      <s:sku>gill-48713</s:sku>
+      <s:grams>113398</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/74313662489</id>
+      <title>8&apos; x 24&apos; Goals (pair)</title>
+      <s:price currency="USD">3602.99</s:price>
+      <s:sku>gill-487200</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/74313662489</id>
+      <title>3mm x5&quot; Square Braid Nets-White(pair)</title>
+      <s:price currency="USD">245.99</s:price>
+      <s:sku>gill-00491824</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/74313662489</id>
+      <title>3mm x 5&quot; Square Twist Nets-White(pair)</title>
+      <s:price currency="USD">189.99</s:price>
+      <s:sku>gill-49182401</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/74313662489</id>
+      <title>3mm x 5&quot; Square Twist Nets-Orange(pair)</title>
+      <s:price currency="USD">197.99</s:price>
+      <s:sku>gill-49182405</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/74313662489</id>
+      <title>Transport Kit</title>
+      <s:price currency="USD">503.99</s:price>
+      <s:sku>gill-00293000</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/68207509529</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/gillathletics-premier-goals"/>
+    <title>Premier Goals</title>
+    <s:type>Goals</s:type>
+    <s:vendor>Gill Athletics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/587200-587201.jpg?v=1505407389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gill Athletics<br>
+        <strong>Type: </strong>Goals<br>
+        <strong>Price: </strong>
+            188.99 - 6550.99
+            <a href="https://www.kodiaksports.com/products/gillathletics-premier-goals">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="narrow" style="position: static; visibility: visible;">The Upper90 Premier Goals are portable goals made of four inch round aluminum. </p>
+<p class="narrow" style="position: static; visibility: visible;">This goal meets FIFA, NCAA, and NFHS Specifications.</p>
+<p class="narrow" style="position: static; visibility: visible;">Goal Packages:</p>
+<ul>
+<li>8' x 24' Premier Goals Package</li>
+<li>8' x 24' Premier Nesting Goals Package- 7' depth nests under football goals</li>
+<li>7' x 21' Premier Goals Package</li>
+</ul>
+<p class="narrow" style="position: static; visibility: visible;"><strong> </strong></p>
+<p class="narrow" style="position: static; visibility: visible;"><strong>All Packages Include</strong>:</p>
+<ul>
+<li>Goals (Pair)</li>
+<li>3mm x 5" Square Braid Net- White (Pair)</li>
+<li>4- Easy to Engage Wheel Assemblies- Lift and Roll Wheels</li>
+<li>Back Bar w/ weights- prevents unintentional tip-overs</li>
+<li>Auger Anchor Kit- secures around back bar tubing to prevent tipping</li>
+<li>White powder coat finish </li>
+<li>Quick clip net system</li>
+</ul>
+<h5 class="narrow" style="position: static; visibility: visible;">Sold Separately</h5>
+<ul></ul>
+<p><strong>Nets:</strong> </p>
+<p>8' x 24' Alternative Net Choices:</p>
+<ul>
+<li>3mm x 5" Square Twist Nets- White-Pair</li>
+<li>3mm x 5" Square Twist Nets- Orange-Pair</li>
+</ul>
+<br>
+<ul></ul>
+7' x 21' Alternative Net Choices:<br>
+<ul>
+<li>3mm x 5" Square Braid Nets- Orange-Pair</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gill Athletics</s:tag>
+    <s:tag>PRODUCT_Goals</s:tag>
+    <s:tag>SPORT_Soccer</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/68207509529</id>
+      <title>8&apos;x24&apos; Premier Goal Package</title>
+      <s:price currency="USD">6550.99</s:price>
+      <s:sku>gill-587200</s:sku>
+      <s:grams>124738</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/68207509529</id>
+      <title>8&apos;x24&apos; Premier Nesting Goals Package</title>
+      <s:price currency="USD">6473.99</s:price>
+      <s:sku>gill-587202</s:sku>
+      <s:grams>124738</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/68207509529</id>
+      <title>7&apos;x21&apos; Goals Package</title>
+      <s:price currency="USD">6005.99</s:price>
+      <s:sku>gill-587201</s:sku>
+      <s:grams>124738</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/68207509529</id>
+      <title>3mm x5&quot; Square Twist Nets-White(pair)</title>
+      <s:price currency="USD">188.99</s:price>
+      <s:sku>gill-49182401</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/68207509529</id>
+      <title>3mm x5&quot; Square Twist Nets-Orange (pair)</title>
+      <s:price currency="USD">197.99</s:price>
+      <s:sku>gill-49182405</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/68207509529</id>
+      <title>3mm x5&quot; Square Braid Nets-Orange(pair)</title>
+      <s:price currency="USD">189.99</s:price>
+      <s:sku>gill-49172105</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/61123067929</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/world-cup-goal-gillathletics-upper90"/>
+    <title>World Cup Goal</title>
+    <s:type>Goals</s:type>
+    <s:vendor>Gill Athletics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/492200.jpg?v=1504726955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gill Athletics<br>
+        <strong>Type: </strong>Goals<br>
+        <strong>Price: </strong>
+            126.99 - 4097.99
+            <a href="https://www.kodiaksports.com/products/world-cup-goal-gillathletics-upper90">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="narrow" style="position: static; visibility: visible;">The Upper90 World Cup Goals are stationary goals made of four inch round aluminum.</p>
+<p class="narrow" style="position: static; visibility: visible;">The goals are compatible with 3 net styles. This goal meets FIFA, NCAA, and NFHS Specifications.</p>
+<p class="narrow" style="position: static; visibility: visible;">Buy the World Cup Goals as a package or items separately. </p>
+<h3>Package Includes</h3>
+<ul>
+<li>8' x 24' Goals (Pair)</li>
+<li>Hexagon Nets (Pair)</li>
+<li>Ground Sleeves (4)</li>
+<li>Back Post Net Supports (4)</li>
+<li>Back Post Ground Sleeves (4)</li>
+<li>Net Tie Down Stakes (16)</li>
+</ul>
+<h5 class="narrow" style="position: static; visibility: visible;">Sold Separately</h5>
+<ul></ul>
+<p><strong>Nets:</strong> </p>
+<ul>
+<li>3mm x 5" Square Braid Nets- White-Pair</li>
+<li>6mm x 5" Hexagon Braid Nets- White-Pair</li>
+<li>3mm x 5" Square Twist Nets- Orange-Pair</li>
+</ul>
+<br>
+<ul></ul>
+<p><strong>Goals:</strong></p>
+<ul>
+<li>8 x 24' Goals- Pair</li>
+</ul>
+<br>
+<ul></ul>
+<p><strong>Back Post Net Supports:</strong></p>
+<ul>
+<li>Set of 4 Back Post Net Supports</li>
+</ul>
+<br>
+<ul></ul>
+<p><strong>Back Post Ground Sleeve-</strong>Sold individually </p>
+<p><strong>Goal Ground Sleeve-</strong>Sold individually</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gill Athletics</s:tag>
+    <s:tag>PRODUCT_Goals</s:tag>
+    <s:tag>SPORT_Soccer</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>World Cup Package</title>
+      <s:price currency="USD">4097.99</s:price>
+      <s:sku>gill-492200</s:sku>
+      <s:grams>124738</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>3mm x5&quot; Square Braid Nets-White(pair)</title>
+      <s:price currency="USD">284.99</s:price>
+      <s:sku>gill-00492824</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>6mm x5&quot; Hexagon Braid Nets-White(pair)</title>
+      <s:price currency="USD">403.99</s:price>
+      <s:sku>gill-49282401</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>3mm x5&quot; Square Twist Nets-Orange(pair)</title>
+      <s:price currency="USD">235.99</s:price>
+      <s:sku>gill-49282405</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>8&apos;x24&apos; Goals(pair)</title>
+      <s:price currency="USD">2194.99</s:price>
+      <s:sku>gill-485200</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>Set of 4 Back Post Net Supports</title>
+      <s:price currency="USD">679.99</s:price>
+      <s:sku>gill-00422040</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>Back Post Ground Sleeves(each)</title>
+      <s:price currency="USD">126.99</s:price>
+      <s:sku>gill-00402000</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/61123067929</id>
+      <title>Goal Ground Sleeves(each)</title>
+      <s:price currency="USD">129.99</s:price>
+      <s:sku>gill-00404000</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/60218441753</id>
+    <published>2017-01-19T15:21:00-06:00</published>
+    <updated>2017-01-19T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/portable-world-cup-goal-gillathletics"/>
+    <title>Portable World Cup Goal</title>
+    <s:type>Goals</s:type>
+    <s:vendor>Gill Athletics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/493000.jpg?v=1504626040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gill Athletics<br>
+        <strong>Type: </strong>Goals<br>
+        <strong>Price: </strong>
+            6863.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="narrow" style="position: static; visibility: visible;">
+<p>The Gill Athletics Portable U90 World Cup Goal is a portable goal allowing use anywhere. Customize the look to your school colors with custom powder coated back posts. </p>
+<p>The goal can nest under 8' Football goal posts, the auger anchor kit and weights secure the back bar tubing to prevent tipping.</p>
+<p>This goal meets FIFA, NCAA, and NFHS Specifications.</p>
+<h3>Package Includes</h3>
+<ul>
+<li>8' x 24' Portable Goals w/ 4" round aluminum construction</li>
+<li>White Hexagon Nets</li>
+<li>4-Wheel Assemblies</li>
+<li>Auger Anchor Kit</li>
+<li>Back Bar with Weights</li>
+<li>Steel Net Support Poles- Choice of color </li>
+<li>Football Goal Attachment Plates</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Gill Athletics</s:tag>
+    <s:tag>PRODUCT_Goals</s:tag>
+    <s:tag>SPORT_Soccer</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C01</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C02</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Red</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C03</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>White</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C04</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Orange</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C05</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Yellow Gold</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C06</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Silver</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C07</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Old Gold</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C08</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Gray</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C09</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Maroon</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C10</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Purple</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C11</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Black</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C12</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C13</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Kelly Green</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C14</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/60218441753</id>
+      <title>Dark Green</title>
+      <s:price currency="USD">6863.99</s:price>
+      <s:sku>gill-493000C15</s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8814279116</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/soccer-pitching-machine"/>
+    <title>Pro Trainer by Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/soccertrainer_1.jpg?v=1477656461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            1829.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Pro Trainer</h3>
+<p>With its fold-out ball track the Pro Trainer Model can automatically feed up to five balls at once at 2-1/2 to 15 second intervals. This liberates a mentor or player from being the assigned ball feeder. <br>It additionally makes it feasible for players to be able to practice all alone, while playing in the backyard, on the field or wherever needed to practice; helping to build more skilled players. </p>
+<h5>Specifications</h5>
+<ul>
+<li>Fold out automatic ball feed: feed up to 5 balls at a time</li>
+<li>Ball shot intervals: between 2 1/2 and 15 seconds </li>
+<li>Extended elevation angles</li>
+<li>Simple control panel </li>
+</ul>
+<h5>Features </h5>
+<ul>
+<li>Serves rolling, bouncing, driving, and high arching shots</li>
+<li>Shoots at a distance of up to 40 meters</li>
+<li>Machine shoots size 4 soccer balls and size 5 soccer balls</li>
+<li>Optional: Battery pack </li>
+</ul>
+<ul></ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a three year warranty covering both parts and labor. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Soccer Ball Machine</s:tag>
+    <s:tag>SPORT_Soccer</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8814279116</id>
+      <title>Pro Trainer</title>
+      <s:price currency="USD">1829.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>65771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.kodiaksports.com/products/8807631628</id>
+    <published>2016-10-14T09:48:00-05:00</published>
+    <updated>2016-10-14T09:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.kodiaksports.com/products/soccer-ball-machine"/>
+    <title>Gold Model Soccer Machine by Sports Tutor</title>
+    <s:type>Pitching Machine</s:type>
+    <s:vendor>Sports Tutor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1150/3206/products/soccer_2.jpg?v=1477570009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sports Tutor<br>
+        <strong>Type: </strong>Pitching Machine<br>
+        <strong>Price: </strong>
+            1449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Gold Model</h3>
+<p>A unique sideways-mounted caster lets you effectively pivot the Gold Model from side-to-side to encourage multiple-line drills or sequence drills. A mentor can coach various players in various positions by just directing it towards every player as they feed the balls. You can likewise rapidly turn the Gold Model to add unforeseeable shots when working with a goalie.</p>
+<h5>Specifications</h5>
+<ul>
+<li>Easily rotates side to side </li>
+<li>Quickly pivots to add fluctuation for goalie practice </li>
+<li>Powered by a rechargeable battery, smart battery charge included so you can charge overnight</li>
+<li>Battery last up to 2 hours on a charge</li>
+<li>Built in carrying handle and large caster wheels</li>
+</ul>
+<h5>Features </h5>
+<ul>
+<li>Serves rolling, bouncing, driving, and high arching shots</li>
+<li>Shoots at a distance of up to 40 meters</li>
+<li>Machine shoots size 4 soccer balls and size 5 soccer balls</li>
+<li>Optional: Battery pack </li>
+</ul>
+<ul></ul>
+<h5>Warranty</h5>
+<p>This machine is backed by a three year warranty covering both parts and labor.</p>
+<h5>Shipping</h5>
+<p>This machine would ship within five business days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRAND_Sports Tutor</s:tag>
+    <s:tag>PRODUCT_Soccer Ball Machine</s:tag>
+    <s:tag>SPORT_Soccer</s:tag>
+    <s:variant>
+      <id>https://www.kodiaksports.com/products/8807631628</id>
+      <title>Gold Model</title>
+      <s:price currency="USD">1449.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>
